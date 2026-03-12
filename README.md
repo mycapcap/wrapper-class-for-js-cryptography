@@ -6,3 +6,11 @@
 
 ## usage examples :
 (coming soon)
+
+
+
+
+
+
+# 
+“A cryptographic system should be secure even if everything about the system, except the key, is public knowledge.” — Auguste Kerckhoffs
