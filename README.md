@@ -1,8 +1,8 @@
 # Wrapper class for javascript cryptography
 
-generate key pairs, encrypt, decrypt, sign, verify. 
+### Generate key pairs, encrypt, decrypt, sign, verify. 
 
-Vanilla, no dependencies.
+### Vanilla, no dependencies.
 
 ## usage examples :
 (coming soon)
