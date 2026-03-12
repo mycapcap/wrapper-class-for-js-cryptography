@@ -4,9 +4,11 @@
 
 ### wrap / unwrap
 
-### encrypt / decrypt (by generating & wrapping an AES key)
+### encrypt / decrypt 
+  by generating & wrapping an AES key
+  with a password
 
-### Sign / verify. 
+### Sign / verify 
 
 ### Vanilla, no dependencies.
 
