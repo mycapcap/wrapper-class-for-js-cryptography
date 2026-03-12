@@ -5,8 +5,9 @@
 ### wrap / unwrap
 
 ### encrypt / decrypt 
-  by generating & wrapping an AES key
-  with a password
+
+   - by generating & wrapping an AES key
+   - with a password
 
 ### Sign / verify 
 
