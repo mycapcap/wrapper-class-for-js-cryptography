@@ -1,10 +1,16 @@
 # Wrapper class for javascript cryptography
 
-### Generate key pairs, encrypt, decrypt, sign, verify. 
+### generate RSA key pairs
+
+### wrap / unwrap
+
+### encrypt / decrypt (by generating & wrapping an AES key)
+
+### Sign / verify. 
 
 ### Vanilla, no dependencies.
 
-## usage examples :
+## usage :
 (coming soon)
 
 
