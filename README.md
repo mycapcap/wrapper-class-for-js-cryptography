@@ -1,5 +1,7 @@
 # Wrapper class for javascript cryptography
 
+### Vanilla js, no dependencies.
+
 ### generate RSA key pairs
 
 ### wrap / unwrap
@@ -11,7 +13,6 @@
 
 ### Sign / verify 
 
-### Vanilla, no dependencies.
 
 ## usage :
 (coming soon)
